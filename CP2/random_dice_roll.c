@@ -3,7 +3,7 @@
 
 int main(void)
 {
-  int seed; //number used to seed thee random number generator
+  int seed; //number used to seed the random number generator
 
   printf("%s", "Enter seed: ");
   scanf("%d", &seed);
