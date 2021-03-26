@@ -4,7 +4,7 @@
 void printCharacters(const char *sPtr);
 void printCharacters(const char *sPtr)
 {
-  for (; *sPtr!='\0'; ++sPtr){printf("%c\n", *sPtr);} //loop through entire string
+  for (; *sPtr!='\0'; ++sPtr) {printf("%c\n", *sPtr);} //loop through entire string
 }
 
 int main(void)
